@@ -19,7 +19,7 @@ n/a
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    <img width="1470" alt="Screenshot 2023-08-23 at 9 42 23 PM" src="https://github.com/hfelix3/Challenge1/assets/141383937/8bfc7da3-dbe4-4039-ab2b-02ed5e28805a">
+![Alt text](https://github.com/hfelix3/Challenge1/assets/141383937/8bfc7da3-dbe4-4039-ab2b-02ed5e28805a)
 
 ## Credits
 
